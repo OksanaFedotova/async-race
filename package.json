@@ -1,0 +1,11 @@
+{
+  "name": "async-race",
+  "version": "1.0.0",
+  "description": "rs school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Oksana Fedotova",
+  "license": "ISC"
+}
